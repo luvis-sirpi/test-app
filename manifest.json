@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "locale": "en_US",
+    "platform": "R 3.6.3",
+    "metadata": {
+        "appmode": "shiny",
+        "primary_rmd": null
+    },
+    "packages": [
+        { "name": "shiny", "version": "1.7.1", "source": "CRAN" },
+        { "name": "ggplot2", "version": "3.3.5", "source": "CRAN" },
+        { "name": "DT", "version": "0.18", "source": "CRAN" }
+    ]
+}
